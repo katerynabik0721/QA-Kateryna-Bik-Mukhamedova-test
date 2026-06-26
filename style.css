@@ -1,0 +1,23 @@
+ 
+body {
+  background-image: url('pages/pictures/background.jpg');
+  background-color: #cccccc;
+  font-family: Arial, sans-serif;
+}
+
+.cat-names {
+	color: black;
+	font-weight: bold;
+}
+.text-shadow{
+	 text-shadow: 2px 2px #dcdcdc
+}
+
+h3 {
+	font-style: italic;
+	color: GoldenRod;
+}
+
+h4 {
+	font-weight: lighter;
+}
